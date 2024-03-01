@@ -1,7 +1,8 @@
 
 ## Screenshots
 
-![App Screenshot](![ImageNumberClassification](https://github.com/rahulsingh04/ImageNumberClassification/assets/60429775/8947ce5f-0536-4238-88df-f3eb456bd92d))
+![ImageNumberClassification](https://github.com/rahulsingh04/ImageNumberClassification/assets/60429775/fc209c60-c1bf-4ce4-ad8d-b50c639dc7ec)
+
 
 
 # Image Number Classification 
